@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['201098906252'] //ur owner number
 global.ownername = "
-"↻ T h M ，ՏH A K AR   ᥫ᭡， ٫" //ur owner name
+"↻ T h M ，ՏH A K AR ٫" //ur owner name
 global.ytname = "YT: Elgazar" //ur yt chanel name
 global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
@@ -64,13 +64,13 @@ global.location = "Egypt, Cairo, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['201028568857']
 global.ownertag = '201028568857' //ur tag number
-global.botname = ↻ T h M ，ՏH A K AR   ᥫ᭡， ٫' //ur bot name
+global.botname = ↻ T h M ，ՏH A K AR ٫' //ur bot name
 global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ شأكرألشرقأؤي يروحي ⍣" //ur sticker watermark packname
+global.packname = "⍣ شأكـرألشرقـأؤي يـروحـي ⍣" //ur sticker watermark packname
 global.author = "⍣01028568857⍣" //ur sticker watermark author
 
 //Bot theme media
