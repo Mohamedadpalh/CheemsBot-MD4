@@ -70,7 +70,7 @@ global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur we
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ شأڪرألشرقأؤي يروحي ⍣" //ur sticker watermark packname
+global.packname = "⍣ شأكرألشرقأؤي يروحي ⍣" //ur sticker watermark packname
 global.author = "⍣01028568857⍣" //ur sticker watermark author
 
 //Bot theme media
